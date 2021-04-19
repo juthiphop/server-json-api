@@ -1,0 +1,20 @@
+{
+  "mails": [
+    {
+      "id": 1,
+      "building": "A",
+      "room": "304",
+      "itemType": "Box",
+      "from": "Kerry Express",
+      "mailCode": "02ad019f-6de8-4d06-ae8f-98f8792f12a8"
+    },
+    {
+      "id": 2,
+      "building": "B",
+      "room": "408",
+      "itemType": "Mail",
+      "from": "Thailand Post",
+      "mailCode": "c1584c15-4f6a-4e01-a7a9-3eadbf736d0d"
+    }
+  ]
+}
